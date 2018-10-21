@@ -1,5 +1,5 @@
 _repo: Monsieur-Madame-and-Bebe-Volume-02_3924
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcc 'PQ'
 - !lcsh 'French fiction -- Translations into English'
 - !lcsh 'Family life -- Fiction'
+- GITenberg
 title: Monsieur, Madame, and Bébé — Volume 02
 url: http://www.gutenberg.org/ebooks/3924
